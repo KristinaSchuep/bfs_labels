@@ -37,3 +37,23 @@ for(lang in languages){
   }
 }
 
+# Import all labels for level 6
+languages <- c("de", "fr", "it", "en")
+iscolevels <- c(6)
+
+for(lang in languages){
+  for(lev in iscolevels){
+    get_isco_labels(path = "data/", language = lang, level = lev)
+  }
+}
+
+# All languages together for level 6
+level <- 6
+query <- paste0("&level=", level, 
+                "&annotations=", "false")
+call <- paste0("https://www.i14y.admin.ch/api/Nomenclatures/HCL_CH_ISCO_19_PROF/levelexport/CSV?", query)
+df <- read.csv(call)
+df <- df %>% rename(!!paste0("cod_isco", level) := Code)
+colnames(df) <- str_replace(colnames(df), "Name_", "txt_isco_")
+write.csv(df, file = paste0("data/", "label_isco", level, "_", "all", ".csv"), row.names = FALSE)
+
