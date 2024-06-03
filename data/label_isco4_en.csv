@@ -1,583 +1,584 @@
-"cod_isco4","cod_isco2","txt_isco4"
-110,11,NA
-210,21,NA
-310,31,NA
-1000,100,NA
-1100,110,NA
-1110,111,NA
-1111,111,NA
-1112,111,NA
-1113,111,NA
-1114,111,NA
-1120,112,NA
-1200,120,NA
-1210,121,NA
-1211,121,NA
-1212,121,NA
-1213,121,NA
-1219,121,NA
-1220,122,NA
-1221,122,NA
-1222,122,NA
-1223,122,NA
-1300,130,NA
-1310,131,NA
-1311,131,NA
-1312,131,NA
-1320,132,NA
-1321,132,NA
-1322,132,NA
-1323,132,NA
-1324,132,NA
-1330,133,NA
-1340,134,NA
-1341,134,NA
-1342,134,NA
-1343,134,NA
-1344,134,NA
-1345,134,NA
-1346,134,NA
-1349,134,NA
-1400,140,NA
-1410,141,NA
-1411,141,NA
-1412,141,NA
-1420,142,NA
-1430,143,NA
-1431,143,NA
-1439,143,NA
-2000,200,NA
-2100,210,NA
-2110,211,NA
-2111,211,NA
-2112,211,NA
-2113,211,NA
-2114,211,NA
-2120,212,NA
-2130,213,NA
-2131,213,NA
-2132,213,NA
-2133,213,NA
-2140,214,NA
-2141,214,NA
-2142,214,NA
-2143,214,NA
-2144,214,NA
-2145,214,NA
-2146,214,NA
-2149,214,NA
-2150,215,NA
-2151,215,NA
-2152,215,NA
-2153,215,NA
-2160,216,NA
-2161,216,NA
-2162,216,NA
-2163,216,NA
-2164,216,NA
-2165,216,NA
-2166,216,NA
-2200,220,NA
-2210,221,NA
-2211,221,NA
-2212,221,NA
-2220,222,NA
-2221,222,NA
-2222,222,NA
-2230,223,NA
-2240,224,NA
-2250,225,NA
-2260,226,NA
-2261,226,NA
-2262,226,NA
-2263,226,NA
-2264,226,NA
-2265,226,NA
-2266,226,NA
-2267,226,NA
-2269,226,NA
-2300,230,NA
-2310,231,NA
-2320,232,NA
-2330,233,NA
-2340,234,NA
-2341,234,NA
-2342,234,NA
-2350,235,NA
-2351,235,NA
-2352,235,NA
-2353,235,NA
-2354,235,NA
-2355,235,NA
-2356,235,NA
-2359,235,NA
-2400,240,NA
-2410,241,NA
-2411,241,NA
-2412,241,NA
-2413,241,NA
-2420,242,NA
-2421,242,NA
-2422,242,NA
-2423,242,NA
-2424,242,NA
-2430,243,NA
-2431,243,NA
-2432,243,NA
-2433,243,NA
-2434,243,NA
-2500,250,NA
-2510,251,NA
-2511,251,NA
-2512,251,NA
-2513,251,NA
-2514,251,NA
-2519,251,NA
-2520,252,NA
-2521,252,NA
-2522,252,NA
-2523,252,NA
-2529,252,NA
-2600,260,NA
-2610,261,NA
-2611,261,NA
-2612,261,NA
-2619,261,NA
-2620,262,NA
-2621,262,NA
-2622,262,NA
-2630,263,NA
-2631,263,NA
-2632,263,NA
-2633,263,NA
-2634,263,NA
-2635,263,NA
-2636,263,NA
-2640,264,NA
-2641,264,NA
-2642,264,NA
-2643,264,NA
-2650,265,NA
-2651,265,NA
-2652,265,NA
-2653,265,NA
-2654,265,NA
-2655,265,NA
-2656,265,NA
-2659,265,NA
-3000,300,NA
-3100,310,NA
-3110,311,NA
-3111,311,NA
-3112,311,NA
-3113,311,NA
-3114,311,NA
-3115,311,NA
-3116,311,NA
-3117,311,NA
-3118,311,NA
-3119,311,NA
-3120,312,NA
-3121,312,NA
-3122,312,NA
-3123,312,NA
-3130,313,NA
-3131,313,NA
-3132,313,NA
-3133,313,NA
-3134,313,NA
-3135,313,NA
-3139,313,NA
-3140,314,NA
-3141,314,NA
-3142,314,NA
-3143,314,NA
-3150,315,NA
-3151,315,NA
-3152,315,NA
-3153,315,NA
-3154,315,NA
-3155,315,NA
-3200,320,NA
-3210,321,NA
-3211,321,NA
-3212,321,NA
-3213,321,NA
-3214,321,NA
-3220,322,NA
-3221,322,NA
-3222,322,NA
-3230,323,NA
-3240,324,NA
-3250,325,NA
-3251,325,NA
-3252,325,NA
-3253,325,NA
-3254,325,NA
-3255,325,NA
-3256,325,NA
-3257,325,NA
-3258,325,NA
-3259,325,NA
-3300,330,NA
-3310,331,NA
-3311,331,NA
-3312,331,NA
-3313,331,NA
-3314,331,NA
-3315,331,NA
-3320,332,NA
-3321,332,NA
-3322,332,NA
-3323,332,NA
-3324,332,NA
-3330,333,NA
-3331,333,NA
-3332,333,NA
-3333,333,NA
-3334,333,NA
-3339,333,NA
-3340,334,NA
-3341,334,NA
-3342,334,NA
-3343,334,NA
-3344,334,NA
-3350,335,NA
-3351,335,NA
-3352,335,NA
-3353,335,NA
-3354,335,NA
-3355,335,NA
-3359,335,NA
-3400,340,NA
-3410,341,NA
-3411,341,NA
-3412,341,NA
-3413,341,NA
-3420,342,NA
-3421,342,NA
-3422,342,NA
-3423,342,NA
-3430,343,NA
-3431,343,NA
-3432,343,NA
-3433,343,NA
-3434,343,NA
-3435,343,NA
-3500,350,NA
-3510,351,NA
-3511,351,NA
-3512,351,NA
-3513,351,NA
-3514,351,NA
-3520,352,NA
-3521,352,NA
-3522,352,NA
-4000,400,NA
-4100,410,NA
-4110,411,NA
-4120,412,NA
-4130,413,NA
-4131,413,NA
-4132,413,NA
-4200,420,NA
-4210,421,NA
-4211,421,NA
-4212,421,NA
-4213,421,NA
-4214,421,NA
-4220,422,NA
-4221,422,NA
-4222,422,NA
-4223,422,NA
-4224,422,NA
-4225,422,NA
-4226,422,NA
-4227,422,NA
-4229,422,NA
-4300,430,NA
-4310,431,NA
-4311,431,NA
-4312,431,NA
-4313,431,NA
-4320,432,NA
-4321,432,NA
-4322,432,NA
-4323,432,NA
-4410,441,NA
-4411,441,NA
-4412,441,NA
-4413,441,NA
-4414,441,NA
-4415,441,NA
-4416,441,NA
-4419,441,NA
-5000,500,NA
-5100,510,NA
-5110,511,NA
-5111,511,NA
-5112,511,NA
-5113,511,NA
-5120,512,NA
-5130,513,NA
-5131,513,NA
-5132,513,NA
-5140,514,NA
-5141,514,NA
-5142,514,NA
-5150,515,NA
-5151,515,NA
-5152,515,NA
-5153,515,NA
-5160,516,NA
-5161,516,NA
-5162,516,NA
-5163,516,NA
-5164,516,NA
-5165,516,NA
-5169,516,NA
-5200,520,NA
-5210,521,NA
-5211,521,NA
-5212,521,NA
-5220,522,NA
-5221,522,NA
-5222,522,NA
-5223,522,NA
-5230,523,NA
-5240,524,NA
-5241,524,NA
-5242,524,NA
-5243,524,NA
-5244,524,NA
-5245,524,NA
-5246,524,NA
-5249,524,NA
-5300,530,NA
-5310,531,NA
-5311,531,NA
-5312,531,NA
-5320,532,NA
-5321,532,NA
-5322,532,NA
-5329,532,NA
-5410,541,NA
-5411,541,NA
-5412,541,NA
-5413,541,NA
-5414,541,NA
-5419,541,NA
-6000,600,NA
-6100,610,NA
-6110,611,NA
-6111,611,NA
-6112,611,NA
-6113,611,NA
-6114,611,NA
-6120,612,NA
-6121,612,NA
-6122,612,NA
-6123,612,NA
-6129,612,NA
-6130,613,NA
-6200,620,NA
-6210,621,NA
-6220,622,NA
-6221,622,NA
-6222,622,NA
-6223,622,NA
-6224,622,NA
-6300,630,NA
-6310,631,NA
-6320,632,NA
-6330,633,NA
-6340,634,NA
-7000,700,NA
-7100,710,NA
-7110,711,NA
-7111,711,NA
-7112,711,NA
-7113,711,NA
-7114,711,NA
-7115,711,NA
-7119,711,NA
-7120,712,NA
-7121,712,NA
-7122,712,NA
-7123,712,NA
-7124,712,NA
-7125,712,NA
-7126,712,NA
-7127,712,NA
-7130,713,NA
-7131,713,NA
-7132,713,NA
-7133,713,NA
-7200,720,NA
-7210,721,NA
-7211,721,NA
-7212,721,NA
-7213,721,NA
-7214,721,NA
-7215,721,NA
-7220,722,NA
-7221,722,NA
-7222,722,NA
-7223,722,NA
-7224,722,NA
-7230,723,NA
-7231,723,NA
-7232,723,NA
-7233,723,NA
-7234,723,NA
-7300,730,NA
-7310,731,NA
-7311,731,NA
-7312,731,NA
-7313,731,NA
-7314,731,NA
-7315,731,NA
-7316,731,NA
-7317,731,NA
-7318,731,NA
-7319,731,NA
-7320,732,NA
-7321,732,NA
-7322,732,NA
-7323,732,NA
-7400,740,NA
-7410,741,NA
-7411,741,NA
-7412,741,NA
-7413,741,NA
-7420,742,NA
-7421,742,NA
-7422,742,NA
-7500,750,NA
-7510,751,NA
-7511,751,NA
-7512,751,NA
-7513,751,NA
-7514,751,NA
-7515,751,NA
-7516,751,NA
-7520,752,NA
-7521,752,NA
-7522,752,NA
-7523,752,NA
-7530,753,NA
-7531,753,NA
-7532,753,NA
-7533,753,NA
-7534,753,NA
-7535,753,NA
-7536,753,NA
-7540,754,NA
-7541,754,NA
-7542,754,NA
-7543,754,NA
-7544,754,NA
-7549,754,NA
-8000,800,NA
-8100,810,NA
-8110,811,NA
-8111,811,NA
-8112,811,NA
-8113,811,NA
-8114,811,NA
-8120,812,NA
-8121,812,NA
-8122,812,NA
-8130,813,NA
-8131,813,NA
-8132,813,NA
-8140,814,NA
-8141,814,NA
-8142,814,NA
-8143,814,NA
-8150,815,NA
-8151,815,NA
-8152,815,NA
-8153,815,NA
-8154,815,NA
-8155,815,NA
-8156,815,NA
-8157,815,NA
-8159,815,NA
-8160,816,NA
-8170,817,NA
-8171,817,NA
-8172,817,NA
-8180,818,NA
-8181,818,NA
-8182,818,NA
-8183,818,NA
-8189,818,NA
-8200,820,NA
-8210,821,NA
-8211,821,NA
-8212,821,NA
-8219,821,NA
-8300,830,NA
-8310,831,NA
-8311,831,NA
-8312,831,NA
-8320,832,NA
-8321,832,NA
-8322,832,NA
-8330,833,NA
-8331,833,NA
-8332,833,NA
-8340,834,NA
-8341,834,NA
-8342,834,NA
-8343,834,NA
-8344,834,NA
-8350,835,NA
-9000,900,NA
-9100,910,NA
-9110,911,NA
-9111,911,NA
-9112,911,NA
-9120,912,NA
-9121,912,NA
-9122,912,NA
-9123,912,NA
-9129,912,NA
-9210,921,NA
-9211,921,NA
-9212,921,NA
-9213,921,NA
-9214,921,NA
-9215,921,NA
-9216,921,NA
-9300,930,NA
-9310,931,NA
-9311,931,NA
-9312,931,NA
-9313,931,NA
-9320,932,NA
-9321,932,NA
-9329,932,NA
-9330,933,NA
-9331,933,NA
-9332,933,NA
-9333,933,NA
-9334,933,NA
-9410,941,NA
-9411,941,NA
-9412,941,NA
-9500,950,NA
-9510,951,NA
-9520,952,NA
-9600,960,NA
-9610,961,NA
-9611,961,NA
-9612,961,NA
-9613,961,NA
-9620,962,NA
-9621,962,NA
-9622,962,NA
-9623,962,NA
-9624,962,NA
-9629,962,NA
+"cod_isco4","txt_isco4"
+110,"Commissioned armed forces officers"
+210,"Non-commissioned armed forces officers"
+310,"Armed forces occupations, other ranks"
+1000,"Managers, nos"
+1100,"Chief executives, senior officials and legislators, nos"
+1110,"Legislators and senior officials, nos"
+1111,"Legislators"
+1112,"Senior government officials"
+1113,"Traditional chiefs and heads of village"
+1114,"Senior officials of special-interest organisations"
+1120,"Managing directors and chief executives"
+1200,"Administrative and commercial managers, nos"
+1210,"Business services and administration managers, nos"
+1211,"Finance managers"
+1212,"Human resource managers"
+1213,"Policy and planning managers"
+1219,"Business services and administration managers not elsewhere classified"
+1220,"Sales, marketing and development managers, nos"
+1221,"Sales and marketing managers"
+1222,"Advertising and public relations managers"
+1223,"Research and development managers"
+1300,"Production and specialized services managers, nos"
+1310,"Production managers in agriculture, forestry and fisheries, nos"
+1311,"Agricultural and forestry production managers"
+1312,"Aquaculture and fisheries production managers"
+1320,"Manufacturing, mining, construction, and distribution managers, nos"
+1321,"Manufacturing managers"
+1322,"Mining managers"
+1323,"Construction managers"
+1324,"Supply, distribution and related managers"
+1330,"Information and communications technology service managers"
+1340,"Professional services managers, nos"
+1341,"Child care services managers"
+1342,"Health services managers"
+1343,"Aged care services managers"
+1344,"Social welfare managers"
+1345,"Education managers"
+1346,"Financial and insurance services branch managers"
+1349,"Professional services managers not elsewhere classified"
+1400,"Hospitality, retail and other services managers, nos"
+1410,"Hotel and restaurant managers, nos"
+1411,"Hotel managers"
+1412,"Restaurant managers"
+1420,"Retail and wholesale trade managers"
+1430,"Other services managers, nos"
+1431,"Sports, recreation and cultural centre managers"
+1439,"Services managers not elsewhere classified"
+2000,"Professionals, nos"
+2100,"Science and engineering professionals, nos"
+2110,"Physical and earth science professionals, nos"
+2111,"Physicists and astronomers"
+2112,"Meteorologists"
+2113,"Chemists"
+2114,"Geologists and geophysicists"
+2120,"Mathematicians, actuaries and statisticians"
+2130,"Life science professionals, nos"
+2131,"Biologists, botanists, zoologists and related professionals"
+2132,"Farming, forestry and fisheries advisers"
+2133,"Environmental protection professionals"
+2140,"Engineering professionals (excluding electrotechnology), nos"
+2141,"Industrial and production engineers"
+2142,"Civil engineers"
+2143,"Environmental engineers"
+2144,"Mechanical engineers"
+2145,"Chemical engineers"
+2146,"Mining engineers, metallurgists and related professionals"
+2149,"Engineering professionals not elsewhere classified"
+2150,"Electrotechnology engineers, nos"
+2151,"Electrical engineers"
+2152,"Electronics engineers"
+2153,"Telecommunications engineers"
+2160,"Architects, planners, surveyors and designers, nos"
+2161,"Building architects"
+2162,"Landscape architects"
+2163,"Product and garment designers"
+2164,"Town and traffic planners"
+2165,"Cartographers and surveyors"
+2166,"Graphic and multimedia designers"
+2200,"Health professionals, nos"
+2210,"Medical doctors, nos"
+2211,"Generalist medical practitioners"
+2212,"Specialist medical practitioners"
+2220,"Nursing and midwifery professionals, nos"
+2221,"Nursing professionals"
+2222,"Midwifery professionals"
+2230,"Traditional and complementary medicine professionals"
+2240,"Paramedical practitioners"
+2250,"Veterinarians"
+2260,"Other health professionals, nos"
+2261,"Dentists"
+2262,"Pharmacists"
+2263,"Environmental and occupational health and hygiene professionals"
+2264,"Physiotherapists"
+2265,"Dieticians and nutritionists"
+2266,"Audiologists and speech therapists"
+2267,"Optometrists and ophthalmic opticians"
+2269,"Health professionals not elsewhere classified"
+2300,"Teaching professionals, nos"
+2310,"University and higher education teachers"
+2320,"Vocational education teachers"
+2330,"Secondary education teachers"
+2340,"Primary school and early childhood teachers, nos"
+2341,"Primary school teachers"
+2342,"Early childhood educators"
+2350,"Other teaching professionals, nos"
+2351,"Education methods specialists"
+2352,"Special needs teachers"
+2353,"Other language teachers"
+2354,"Other music teachers"
+2355,"Other arts teachers"
+2356,"Information technology trainers"
+2359,"Teaching professionals not elsewhere classified"
+2400,"Business and administration professionals, nos"
+2410,"Finance professionals, nos"
+2411,"Accountants"
+2412,"Financial and investment advisers"
+2413,"Financial analysts"
+2420,"Administration professionals, nos"
+2421,"Management and organisation analysts"
+2422,"Policy administration professionals"
+2423,"Personnel and careers professionals"
+2424,"Training and staff development professionals"
+2430,"Sales, marketing and public relations professionals, nos"
+2431,"Advertising and marketing professionals"
+2432,"Public relations professionals"
+2433,"Technical and medical sales professionals (excluding ICT)"
+2434,"Information and communications technology sales professionals"
+2500,"Information and communications technology professionals, nos"
+2510,"Software and applications developers and analysts, nos"
+2511,"Systems analysts"
+2512,"Software developers"
+2513,"Web and multimedia developers"
+2514,"Applications programmers"
+2519,"Software and applications developers and analysts not elsewhere classified"
+2520,"Database and network professionals, nos"
+2521,"Database designers and administrators"
+2522,"Systems administrators"
+2523,"Computer network professionals"
+2529,"Database and network professionals not elsewhere classified"
+2600,"Legal, social and cultural professionals, nos"
+2610,"Legal professionals, nos"
+2611,"Lawyers"
+2612,"Judges"
+2619,"Legal professionals not elsewhere classified"
+2620,"Librarians, archivists and curators, nos"
+2621,"Archivists and curators"
+2622,"Librarians and related information professionals"
+2630,"Social and religious professionals, nos"
+2631,"Economists"
+2632,"Sociologists, anthropologists and related professionals"
+2633,"Philosophers, historians and political scientists"
+2634,"Psychologists"
+2635,"Social work and counselling professionals"
+2636,"Religious professionals"
+2640,"Authors, journalists and linguists, nos"
+2641,"Authors and related writers"
+2642,"Journalists"
+2643,"Translators, interpreters and other linguists"
+2650,"Creative and performing artists, nos"
+2651,"Visual artists"
+2652,"Musicians, singers and composers"
+2653,"Dancers and choreographers"
+2654,"Film, stage and related directors and producers"
+2655,"Actors"
+2656,"Announcers on radio, television and other media"
+2659,"Creative and performing artists not elsewhere classified"
+3000,"Technicians and associate professionals, nos"
+3100,"Science and engineering associate professionals, nos"
+3110,"Physical and engineering science technicians, nos"
+3111,"Chemical and physical science technicians"
+3112,"Civil engineering technicians"
+3113,"Electrical engineering technicians"
+3114,"Electronics engineering technicians"
+3115,"Mechanical engineering technicians"
+3116,"Chemical engineering technicians"
+3117,"Mining and metallurgical technicians"
+3118,"Draughtspersons"
+3119,"Physical and engineering science technicians not elsewhere classified"
+3120,"Mining, manufacturing and construction supervisors, nos"
+3121,"Mining supervisors"
+3122,"Manufacturing supervisors"
+3123,"Construction supervisors"
+3130,"Process control technicians, nos"
+3131,"Power production plant operators"
+3132,"Incinerator and water treatment plant operators"
+3133,"Chemical processing plant controllers"
+3134,"Petroleum and natural gas refining plant operators"
+3135,"Metal production process controllers"
+3139,"Process control technicians not elsewhere classified"
+3140,"Life science technicians and related associate professionals, nos"
+3141,"Life science technicians (excluding medical)"
+3142,"Agricultural technicians"
+3143,"Forestry technicians"
+3150,"Ship and aircraft controllers and technicians, nos"
+3151,"Ships' engineers"
+3152,"Ships' deck officers and pilots"
+3153,"Aircraft pilots and related associate professionals"
+3154,"Air traffic controllers"
+3155,"Air traffic safety electronics technicians"
+3200,"Health associate professionals, nos"
+3210,"Medical and pharmaceutical technicians, nos"
+3211,"Medical imaging and therapeutic equipment technicians"
+3212,"Medical and pathology laboratory technicians"
+3213,"Pharmaceutical technicians and assistants"
+3214,"Medical and dental prosthetic technicians"
+3220,"Nursing and midwifery associate professionals, nos"
+3221,"Nursing associate professionals"
+3222,"Midwifery associate professionals"
+3230,"Traditional and complementary medicine associate professionals"
+3240,"Veterinary technicians and assistants"
+3250,"Other health associate professionals, nos"
+3251,"Dental assistants and therapists"
+3252,"Medical records and health information technicians"
+3253,"Community health workers"
+3254,"Dispensing opticians"
+3255,"Physiotherapy technicians and assistants"
+3256,"Medical assistants"
+3257,"Environmental and occupational health inspectors and associates"
+3258,"Ambulance workers"
+3259,"Health associate professionals not elsewhere classified"
+3300,"Business and administration associate professionals, nos"
+3310,"Financial and mathematical associate professionals, nos"
+3311,"Securities and finance dealers and brokers"
+3312,"Credit and loans officers"
+3313,"Accounting associate professionals"
+3314,"Statistical, mathematical and related associate professionals"
+3315,"Valuers and loss assessors"
+3320,"Sales and purchasing agents and brokers, nos"
+3321,"Insurance representatives"
+3322,"Commercial sales representatives"
+3323,"Buyers"
+3324,"Trade brokers"
+3330,"Business services agents, nos"
+3331,"Clearing and forwarding agents"
+3332,"Conference and event planners"
+3333,"Employment agents and contractors"
+3334,"Real estate agents and property managers"
+3339,"Business services agents not elsewhere classified"
+3340,"Administrative and specialized secretaries, nos"
+3341,"Office supervisors"
+3342,"Legal secretaries"
+3343,"Administrative and executive secretaries"
+3344,"Medical secretaries"
+3350,"Regulatory government associate professionals, nos"
+3351,"Customs and border inspectors"
+3352,"Government tax and excise officials"
+3353,"Government social benefits officials"
+3354,"Government licensing officials"
+3355,"Police inspectors and detectives"
+3359,"Regulatory government associate professionals not elsewhere classified"
+3400,"Legal, social, cultural and related associate professionals, nos"
+3410,"Legal, social and religious associate professionals, nos"
+3411,"Legal and related associate professionals"
+3412,"Social work associate professionals"
+3413,"Religious associate professionals"
+3420,"Sports and fitness workers, nos"
+3421,"Athletes and sports players"
+3422,"Sports coaches, instructors and officials"
+3423,"Fitness and recreation instructors and program leaders"
+3430,"Artistic, cultural and culinary associate professionals, nos"
+3431,"Photographers"
+3432,"Interior designers and decorators"
+3433,"Gallery, museum and library technicians"
+3434,"Chefs"
+3435,"Other artistic and cultural associate professionals"
+3500,"Information and communications technicians, nos"
+3510,"Information and communications technology operations and user support technicians, nos"
+3511,"Information and communications technology operations technicians"
+3512,"Information and communications technology user support technicians"
+3513,"Computer network and systems technicians"
+3514,"Web technicians"
+3520,"Telecommunications and broadcasting technicians, nos"
+3521,"Broadcasting and audio-visual technicians"
+3522,"Telecommunications engineering technicians"
+4000,"Clerical support workers, nos"
+4100,"General and keyboard clerks, nos"
+4110,"General office clerks"
+4120,"Secretaries (general)"
+4130,"Keyboard operators, nos"
+4131,"Typists and word processing operators"
+4132,"Data entry clerks"
+4200,"Customer services clerks, nos"
+4210,"Tellers, money collectors and related clerks, nos"
+4211,"Bank tellers and related clerks"
+4212,"Bookmakers, croupiers and related gaming workers"
+4213,"Pawnbrokers and money-lenders"
+4214,"Debt-collectors and related workers"
+4220,"Client information workers, nos"
+4221,"Travel consultants and clerks"
+4222,"Contact centre information clerks"
+4223,"Telephone switchboard operators"
+4224,"Hotel receptionists"
+4225,"Enquiry clerks"
+4226,"Receptionists (general)"
+4227,"Survey and market research interviewers"
+4229,"Client information workers not elsewhere classified"
+4300,"Numerical and material recording clerks, nos"
+4310,"Numerical clerks, nos"
+4311,"Accounting and bookkeeping clerks"
+4312,"Statistical, finance and insurance clerks"
+4313,"Payroll clerks"
+4320,"Material-recording and transport clerks, nos"
+4321,"Stock clerks"
+4322,"Production clerks"
+4323,"Transport clerks"
+4410,"Other clerical support workers, nos"
+4411,"Library clerks"
+4412,"Mail carriers and sorting clerks"
+4413,"Coding, proof-reading and related clerks"
+4414,"Scribes and related workers"
+4415,"Filing and copying clerks"
+4416,"Personnel clerks"
+4419,"Clerical support workers not elsewhere classified"
+5000,"Service and sales workers, nos"
+5100,"Personal service workers, nos"
+5110,"Travel attendants, conductors and guides, nos"
+5111,"Travel attendants and travel stewards"
+5112,"Transport conductors"
+5113,"Travel guides"
+5120,"Cooks"
+5130,"Waiters and bartenders, nos"
+5131,"Waiters"
+5132,"Bartenders"
+5140,"Hairdressers, beauticians and related workers, nos"
+5141,"Hairdressers"
+5142,"Beauticians and related workers"
+5150,"Building and housekeeping supervisors, nos"
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other establishments"
+5152,"Domestic housekeepers"
+5153,"Building caretakers"
+5160,"Other personal services workers, nos"
+5161,"Astrologers, fortune-tellers and related workers"
+5162,"Companions and valets"
+5163,"Undertakers and embalmers"
+5164,"Pet groomers and animal care workers"
+5165,"Driving instructors"
+5169,"Personal services workers not elsewhere classified"
+5200,"Sales workers, nos"
+5210,"Street and market salespersons, nos"
+5211,"Stall and market salespersons"
+5212,"Street food salespersons"
+5220,"Shop salespersons, nos"
+5221,"Shop keepers"
+5222,"Shop supervisors"
+5223,"Shop sales assistants"
+5230,"Cashiers and ticket clerks"
+5240,"Other sales workers, nos"
+5241,"Fashion and other models"
+5242,"Sales demonstrators"
+5243,"Door to door salespersons"
+5244,"Contact centre salespersons"
+5245,"Service station attendants"
+5246,"Food service counter attendants"
+5249,"Sales workers not elsewhere classified"
+5300,"Personal care workers, nos"
+5310,"Child care workers and teachers' aides, nos"
+5311,"Child care workers"
+5312,"Teachers' aides"
+5320,"Personal care workers in health services, nos"
+5321,"Health care assistants"
+5322,"Home-based personal care workers"
+5329,"Personal care workers in health services not elsewhere classified"
+5410,"Protective services workers, nos"
+5411,"Fire-fighters"
+5412,"Police officers"
+5413,"Prison guards"
+5414,"Security guards"
+5419,"Protective services workers not elsewhere classified"
+6000,"Skilled agricultural, forestry and fishery workers, nos"
+6100,"Market-oriented skilled agricultural workers, nos"
+6110,"Market gardeners and crop growers, nos"
+6111,"Field crop and vegetable growers"
+6112,"Tree and shrub crop growers"
+6113,"Gardeners, horticultural and nursery growers"
+6114,"Mixed crop growers"
+6120,"Animal producers, nos"
+6121,"Livestock and dairy producers"
+6122,"Poultry producers"
+6123,"Apiarists and sericulturists"
+6129,"Animal producers not elsewhere classified"
+6130,"Mixed crop and animal producers"
+6200,"Market-oriented skilled forestry, fishery and hunting workers, nos"
+6210,"Forestry and related workers"
+6220,"Fishery workers, hunters and trappers, nos"
+6221,"Aquaculture workers"
+6222,"Inland and coastal waters fishery workers"
+6223,"Deep-sea fishery workers"
+6224,"Hunters and trappers"
+6300,"Subsistence farmers, fishers, hunters and gatherers, nos"
+6310,"Subsistence crop farmers"
+6320,"Subsistence livestock farmers"
+6330,"Subsistence mixed crop and livestock farmers"
+6340,"Subsistence fishers, hunters, trappers and gatherers"
+7000,"Craft and related trades workers, nos"
+7100,"Building and related trades workers, excluding electricians, nos"
+7110,"Building frame and related trades workers, nos"
+7111,"House builders"
+7112,"Bricklayers and related workers"
+7113,"Stonemasons, stone cutters, splitters and carvers"
+7114,"Concrete placers, concrete finishers and related workers"
+7115,"Carpenters and joiners"
+7119,"Building frame and related trades workers not elsewhere classified"
+7120,"Building finishers and related trades workers, nos"
+7121,"Roofers"
+7122,"Floor layers and tile setters"
+7123,"Plasterers"
+7124,"Insulation workers"
+7125,"Glaziers"
+7126,"Plumbers and pipe fitters"
+7127,"Air conditioning and refrigeration mechanics"
+7130,"Painters, building structure cleaners and related trades workers, nos"
+7131,"Painters and related workers"
+7132,"Spray painters and varnishers"
+7133,"Building structure cleaners"
+7200,"Metal, machinery and related trades workers, nos"
+7210,"Sheet and structural metal workers, moulders and welders, and related workers, nos"
+7211,"Metal moulders and coremakers"
+7212,"Welders and flamecutters"
+7213,"Sheet-metal workers"
+7214,"Structural-metal preparers and erectors"
+7215,"Riggers and cable splicers"
+7220,"Blacksmiths, toolmakers and related trades workers, nos"
+7221,"Blacksmiths, hammersmiths and forging press workers"
+7222,"Toolmakers and related workers"
+7223,"Metal working machine tool setters and operators"
+7224,"Metal polishers, wheel grinders and tool sharpeners"
+7230,"Machinery mechanics and repairers, nos"
+7231,"Motor vehicle mechanics and repairers"
+7232,"Aircraft engine mechanics and repairers"
+7233,"Agricultural and industrial machinery mechanics and repairers"
+7234,"Bicycle and related repairers"
+7300,"Handicraft and printing workers, nos"
+7310,"Handicraft workers, nos"
+7311,"Precision-instrument makers and repairers"
+7312,"Musical instrument makers and tuners"
+7313,"Jewellery and precious-metal workers"
+7314,"Potters and related workers"
+7315,"Glass makers, cutters, grinders and finishers"
+7316,"Sign writers, decorative painters, engravers and etchers"
+7317,"Handicraft workers in wood, basketry and related materials"
+7318,"Handicraft workers in textile, leather and related materials"
+7319,"Handicraft workers not elsewhere classified"
+7320,"Printing trades workers, nos"
+7321,"Pre-press technicians"
+7322,"Printers"
+7323,"Print finishing and binding workers"
+7400,"Electrical and electronic trades workers, nos"
+7410,"Electrical equipment installers and repairers, nos"
+7411,"Building and related electricians"
+7412,"Electrical mechanics and fitters"
+7413,"Electrical line installers and repairers"
+7420,"Electronics and telecommunications installers and repairers, nos"
+7421,"Electronics mechanics and servicers"
+7422,"Information and communications technology installers and servicers"
+7500,"Food processing, wood working, garment and other craft and related trades workers, nos"
+7510,"Food processing and related trades workers, nos"
+7511,"Butchers, fishmongers and related food preparers"
+7512,"Bakers, pastry-cooks and confectionery makers"
+7513,"Dairy-products makers"
+7514,"Fruit, vegetable and related preservers"
+7515,"Food and beverage tasters and graders"
+7516,"Tobacco preparers and tobacco products makers"
+7520,"Wood treaters, cabinet-makers and related trades workers, nos"
+7521,"Wood treaters"
+7522,"Cabinet-makers and related workers"
+7523,"Woodworking-machine tool setters and operators"
+7530,"Garment and related trades workers, nos"
+7531,"Tailors, dressmakers, furriers and hatters"
+7532,"Garment and related pattern-makers and cutters"
+7533,"Sewing, embroidery and related workers"
+7534,"Upholsterers and related workers"
+7535,"Pelt dressers, tanners and fellmongers"
+7536,"Shoemakers and related workers"
+7540,"Other craft and related workers, nos"
+7541,"Underwater divers"
+7542,"Shotfirers and blasters"
+7543,"Product graders and testers (excluding foods and beverages)"
+7544,"Fumigators and other pest and weed controllers"
+7549,"Craft and related workers not elsewhere classified"
+8000,"Plant and machine operators and assemblers, nos"
+8100,"Stationary plant and machine operators, nos"
+8110,"Mining and mineral processing plant operators, nos"
+8111,"Miners and quarriers"
+8112,"Mineral and stone processing plant operators"
+8113,"Well drillers and borers and related workers"
+8114,"Cement, stone and other mineral products machine operators"
+8120,"Metal processing and finishing plant operators, nos"
+8121,"Metal processing plant operators"
+8122,"Metal finishing, plating and coating machine operators"
+8130,"Chemical and photographic products plant and machine operators, nos"
+8131,"Chemical products plant and machine operators"
+8132,"Photographic products machine operators"
+8140,"Rubber, plastic and paper products machine operators, nos"
+8141,"Rubber products machine operators"
+8142,"Plastic products machine operators"
+8143,"Paper products machine operators"
+8150,"Textile, fur and leather products machine operators, nos"
+8151,"Fibre preparing, spinning and winding machine operators"
+8152,"Weaving and knitting machine operators"
+8153,"Sewing machine operators"
+8154,"Bleaching, dyeing and fabric cleaning machine operators"
+8155,"Fur and leather preparing machine operators"
+8156,"Shoemaking and related machine operators"
+8157,"Laundry machine operators"
+8159,"Textile, fur and leather products machine operators not elsewhere classified"
+8160,"Food and related products machine operators"
+8170,"Wood processing and papermaking plant operators, nos"
+8171,"Pulp and papermaking plant operators"
+8172,"Wood processing plant operators"
+8180,"Other stationary plant and machine operators, nos"
+8181,"Glass and ceramics plant operators"
+8182,"Steam engine and boiler operators"
+8183,"Packing, bottling and labelling machine operators"
+8189,"Stationary plant and machine operators not elsewhere classified"
+8200,"Assemblers, nos"
+8210,"Assemblers, nos"
+8211,"Mechanical machinery assemblers"
+8212,"Electrical and electronic equipment assemblers"
+8219,"Assemblers not elsewhere classified"
+8300,"Drivers and mobile plant operators, nos"
+8310,"Locomotive engine drivers and related workers, nos"
+8311,"Locomotive engine drivers"
+8312,"Railway brake, signal and switch operators"
+8320,"Car, van and motorcycle drivers, nos"
+8321,"Motorcycle drivers"
+8322,"Car, taxi and van drivers"
+8330,"Heavy truck and bus drivers, nos"
+8331,"Bus and tram drivers"
+8332,"Heavy truck and lorry drivers"
+8340,"Mobile plant operators, nos"
+8341,"Mobile farm and forestry plant operators"
+8342,"Earthmoving and related plant operators"
+8343,"Crane, hoist and related plant operators"
+8344,"Lifting truck operators"
+8350,"Ships' deck crews and related workers"
+9000,"Elementary occupations, nos"
+9100,"Cleaners and helpers, nos"
+9110,"Domestic, hotel and office cleaners and helpers, nos"
+9111,"Domestic cleaners and helpers"
+9112,"Cleaners and helpers in offices, hotels and other establishments"
+9120,"Vehicle, window, laundry and other hand cleaning workers, nos"
+9121,"Hand launderers and pressers"
+9122,"Vehicle cleaners"
+9123,"Window cleaners"
+9129,"Other cleaning workers"
+9210,"Agricultural, forestry and fishery labourers, nos"
+9211,"Crop farm labourers"
+9212,"Livestock farm labourers"
+9213,"Mixed crop and livestock farm labourers"
+9214,"Garden and horticultural labourers"
+9215,"Forestry labourers"
+9216,"Fishery and aquaculture labourers"
+9300,"Labourers in mining, construction, manufacturing and transport, nos"
+9310,"Mining and construction labourers, nos"
+9311,"Mining and quarrying labourers"
+9312,"Civil engineering labourers"
+9313,"Building construction labourers"
+9320,"Manufacturing labourers, nos"
+9321,"Hand packers"
+9329,"Manufacturing labourers not elsewhere classified"
+9330,"Transport and storage labourers, nos"
+9331,"Hand and pedal vehicle drivers"
+9332,"Drivers of animal-drawn vehicles and machinery"
+9333,"Freight handlers"
+9334,"Shelf fillers"
+9410,"Food preparation assistants, nos"
+9411,"Fast food preparers"
+9412,"Kitchen helpers"
+9500,"Street and related sales and service workers, nos"
+9510,"Street and related service workers"
+9520,"Street vendors (excluding food)"
+9600,"Refuse workers and other elementary workers, nos"
+9610,"Refuse workers, nos"
+9611,"Garbage and recycling collectors"
+9612,"Refuse sorters"
+9613,"Sweepers and related labourers"
+9620,"Other elementary workers, nos"
+9621,"Messengers, package deliverers and luggage porters"
+9622,"Odd job persons"
+9623,"Meter readers and vending-machine collectors"
+9624,"Water and firewood collectors"
+9629,"Elementary workers not elsewhere classified"
+-999,"Recoding impossible"

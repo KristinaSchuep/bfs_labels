@@ -1,53 +1,53 @@
-"cod_isco2","cod_isco1","txt_isco2"
-1,0,NA
-2,0,NA
-3,0,NA
-10,1,NA
-11,1,NA
-12,1,NA
-13,1,NA
-14,1,NA
-20,2,NA
-21,2,NA
-22,2,NA
-23,2,NA
-24,2,NA
-25,2,NA
-26,2,NA
-30,3,NA
-31,3,NA
-32,3,NA
-33,3,NA
-34,3,NA
-35,3,NA
-40,4,NA
-41,4,NA
-42,4,NA
-43,4,NA
-44,4,NA
-50,5,NA
-51,5,NA
-52,5,NA
-53,5,NA
-54,5,NA
-60,6,NA
-61,6,NA
-62,6,NA
-63,6,NA
-70,7,NA
-71,7,NA
-72,7,NA
-73,7,NA
-74,7,NA
-75,7,NA
-80,8,NA
-81,8,NA
-82,8,NA
-83,8,NA
-90,9,NA
-91,9,NA
-92,9,NA
-93,9,NA
-94,9,NA
-95,9,NA
-96,9,NA
+"cod_isco2","txt_isco2"
+1,"Commissioned armed forces officers"
+2,"Non-commissioned armed forces officers"
+3,"Armed forces occupations, other ranks"
+10,"Managers, nos"
+11,"Chief executives, senior officials and legislators"
+12,"Administrative and commercial managers"
+13,"Production and specialized services managers"
+14,"Hospitality, retail and other services managers"
+20,"Professionals, nos"
+21,"Science and engineering professionals"
+22,"Health professionals"
+23,"Teaching professionals"
+24,"Business and administration professionals"
+25,"Information and communications technology professionals"
+26,"Legal, social and cultural professionals"
+30,"Technicians and associate professionals, nos"
+31,"Science and engineering associate professionals"
+32,"Health associate professionals"
+33,"Business and administration associate professionals"
+34,"Legal, social, cultural and related associate professionals"
+35,"Information and communications technicians"
+40,"Clerical support workers, nos"
+41,"General and keyboard clerks"
+42,"Customer services clerks"
+43,"Numerical and material recording clerks"
+44,"Other clerical support workers"
+50,"Service and sales workers, nos"
+51,"Personal service workers"
+52,"Sales workers"
+53,"Personal care workers"
+54,"Protective services workers"
+60,"Skilled agricultural, forestry and fishery workers, nos"
+61,"Market-oriented skilled agricultural workers"
+62,"Market-oriented skilled forestry, fishery and hunting workers"
+63,"Subsistence farmers, fishers, hunters and gatherers"
+70,"Craft and related trades workers, nos"
+71,"Building and related trades workers, excluding electricians"
+72,"Metal, machinery and related trades workers"
+73,"Handicraft and printing workers"
+74,"Electrical and electronic trades workers"
+75,"Food processing, wood working, garment and other craft and related trades workers"
+80,"Plant and machine operators and assemblers, nos"
+81,"Stationary plant and machine operators"
+82,"Assemblers"
+83,"Drivers and mobile plant operators"
+90,"Elementary occupations, nos"
+91,"Cleaners and helpers"
+92,"Agricultural, forestry and fishery labourers"
+93,"Labourers in mining, construction, manufacturing and transport"
+94,"Food preparation assistants"
+95,"Street and related sales and service workers"
+96,"Refuse workers and other elementary workers"
