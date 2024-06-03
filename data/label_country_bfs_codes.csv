@@ -1,0 +1,296 @@
+cod_country_bfs,cod_country_uno,cod_country_iso2,cod_country_iso3,txt_country_de,txt_country_fr,txt_country_it,txt_country_en,txt_country_official_de,txt_country_official_fr,txt_country_official_it,cod_continent,cod_country_region,is_country,territory_belongs_to_country
+8100,756,CH,CHE,Schweiz,Suisse,Svizzera,Switzerland,Schweizerische Eidgenossenschaft,Confédération suisse,Confederazione svizzera,1,3,J,
+8201,8,AL,ALB,Albanien,Albanie,Albania,Albania,Republik Albanien,République d'Albanie,Repubblica d'Albania,1,7,J,
+8202,20,AD,AND,Andorra,Andorre,Andorra,Andorra,Fürstentum Andorra,Principauté d'Andorre,Principato d'Andorra,1,5,J,
+8204,56,BE,BEL,Belgien,Belgique,Belgio,Belgium,Königreich Belgien,Royaume de Belgique,Regno del Belgio,1,4,J,
+8205,100,BG,BGR,Bulgarien,Bulgarie,Bulgaria,Bulgaria,Republik Bulgarien,République de Bulgarie,Repubblica di Bulgaria,1,7,J,
+8206,208,DK,DNK,Dänemark,Danemark,Danimarca,Denmark,Königreich Dänemark,Royaume de Danemark,Regno di Danimarca,1,1,J,
+8207,276,DE,DEU,Deutschland,Allemagne,Germania,Germany,Bundesrepublik Deutschland,République fédérale d'Allemagne,Repubblica federale di Germania,1,3,J,
+8208,,,,Deutsche Demokratische Republik,République démocratique allemande,Repubblica Democratica Tedesca,German Democratic Republic,,,,1,3,J,
+8209,,,,Westberlin,Berlin ouest,Berlino Ovest,West Berlin,,,,1,3,N,8207
+8210,234,FO,FRO,Färöer,Îles Féroé,Isole Faer Oer,Faeroe Islands,,,,1,1,N,8206
+8211,246,FI,FIN,Finnland,Finlande,Finlandia,Finland,Republik Finnland,République de Finlande,Repubblica di Finlandia,1,1,J,
+8212,250,FR,FRA,Frankreich,France,Francia,France,Französische Republik,République française,Repubblica francese,1,4,J,
+8213,292,GI,GIB,Gibraltar,Gibraltar,Gibilterra,Gibraltar,,,,1,5,N,8215
+8214,300,GR,GRC,Griechenland,Grèce,Grecia,Greece,Hellenische Republik,République hellénique,Repubblica ellenica,1,6,J,
+8215,826,GB,GBR,Vereinigtes Königreich,Royaume-Uni,Regno Unito,United Kingdom,Vereinigtes Königreich von Grossbritannien und Nordirland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Regno Unito di Gran Bretagna e Irlanda del Nord,1,4,J,
+8216,372,IE,IRL,Irland,Irlande,Irlanda,Ireland,Irland,Irlande,Irlanda,1,4,J,
+8217,352,IS,ISL,Island,Islande,Islanda,Iceland,Republik Island,République d'Islande,Repubblica d'Islanda,1,1,J,
+8218,380,IT,ITA,Italien,Italie,Italia,Italy,Italienische Republik,République italienne,Repubblica italiana,1,6,J,
+8220,,,,Jugoslawien,Yougoslavie,Jugoslavia,Yugoslavia,,,,1,7,J,
+8222,438,LI,LIE,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Fürstentum Liechtenstein,Principauté de Liechtenstein,Principato del Liechtenstein,1,3,J,
+8223,442,LU,LUX,Luxemburg,Luxembourg,Lussemburgo,Luxembourg,Grossherzogtum Luxemburg,Grand-Duché de Luxembourg,Granducato di Lussemburgo,1,4,J,
+8224,470,MT,MLT,Malta,Malte,Malta,Malta,Republik Malta,République de Malte,Repubblica di Malta,1,6,J,
+8225,833,IM,IMN,Insel Man,Île de Man,Isola di Man,Isle of Man,,,,1,4,N,8215
+8226,492,MC,MCO,Monaco,Monaco,Monaco,Monaco,Fürstentum Monaco,Principauté de Monaco,Principato di Monaco,1,4,J,
+8227,528,NL,NLD,Niederlande,Pays-Bas,Paesi Bassi,Netherlands,Königreich der Niederlande,Royaume des Pays-Bas,Regno dei Paesi Bassi,1,4,J,
+8228,578,NO,NOR,Norwegen,Norvège,Norvegia,Norway,Königreich Norwegen,Royaume de Norvège,Regno di Norvegia,1,1,J,
+8229,40,AT,AUT,Österreich,Autriche,Austria,Austria,Republik Österreich,République d'Autriche,Repubblica d'Austria,1,3,J,
+8230,616,PL,POL,Polen,Pologne,Polonia,Poland,Republik Polen,République de Pologne,Repubblica di Polonia,1,3,J,
+8231,620,PT,PRT,Portugal,Portugal,Portogallo,Portugal,Portugiesische Republik,République portugaise,Repubblica del Portogallo,1,5,J,
+8232,642,RO,ROU,Rumänien,Roumanie,Romania,Romania,Rumänien,Roumanie,Romania,1,7,J,
+8233,674,SM,SMR,San Marino,Saint-Marin,San Marino,San Marino,Republik San Marino,République de Saint-Marin,Repubblica di San Marino,1,6,J,
+8234,752,SE,SWE,Schweden,Suède,Svezia,Sweden,Königreich Schweden,Royaume de Suède,Regno di Svezia,1,1,J,
+8235,,,,Union der Sozialistischen Sowjetrepubliken,Union des Républiques Socialistes Soviétiques,Unione delle Repubbliche Socialiste Sovietiche,Union of Soviet Socialist Republics,,,,1,2,J,
+8236,724,ES,ESP,Spanien,Espagne,Spagna,Spain,Königreich Spanien,Royaume d'Espagne,Regno di Spagna,1,5,J,
+8237,,,,Azoren,Açores,Azzorre,Azores,Autonome Region Azoren,Région autonome des Açores,Regione autonoma delle Azzorre,1,5,N,8231
+8238,,,,Tschechoslowakei,Tchécoslovaquie,Cecoslovacchia,Czechoslovakia,,,,1,3,J,
+8239,792,TR,TUR,Türkiye,Türkiye,Türkiye,Türkiye,Republik Türkiye,République de Türkiye,Repubblica di Türkiye,1,6,J,
+8240,348,HU,HUN,Ungarn,Hongrie,Ungheria,Hungary,Ungarn,Hongrie,Ungheria,1,3,J,
+8241,336,VA,VAT,Vatikanstadt,Cité du Vatican,Città del Vaticano,Vatican City,Staat Vatikanstadt,Etat de la Cité du Vatican,Stato della Città del Vaticano,1,6,J,
+8242,196,CY,CYP,Zypern,Chypre,Cipro,Cyprus,Republik Zypern,République de Chypre,Repubblica di Cipro,1,6,J,
+8243,703,SK,SVK,Slowakei,Slovaquie,Slovacchia,Slovakia,Slowakische Republik,République slovaque,Repubblica slovacca,1,3,J,
+8244,203,CZ,CZE,Tschechien,Tchéquie,Cechia,Czechia,Tschechische Republik,République tchèque,Repubblica ceca,1,3,J,
+8248,688,RS,SRB,Serbien,Serbie,Serbia,Serbia,Republik Serbien,République de Serbie,Repubblica della Serbia,1,7,J,
+8249,,,,Serbien und Montenegro,Serbie-et-Monténégro,Serbia e Montenegro,Serbia and Montenegro,,,,1,7,J,
+8250,191,HR,HRV,Kroatien,Croatie,Croazia,Croatia,Republik Kroatien,République de Croatie,Repubblica di Croazia,1,7,J,
+8251,705,SI,SVN,Slowenien,Slovénie,Slovenia,Slovenia,Republik Slowenien,République de Slovénie,Repubblica di Slovenia,1,7,J,
+8252,70,BA,BIH,Bosnien und Herzegowina,Bosnie et Herzégovine,Bosnia e Erzegovina,Bosnia and Herzegovina,Bosnien und Herzegowina,Bosnie et Herzégovine,Bosnia e Erzegovina,1,7,J,
+8253,,,,Zentralserbien,Serbie centrale,Serbia centrale,Central Serbia,,,,1,7,N,8248
+8254,499,ME,MNE,Montenegro,Monténégro,Montenegro,Montenegro,Montenegro,Monténégro,Montenegro,1,7,J,
+8255,807,MK,MKD,Nordmazedonien,Macédoine du Nord,Macedonia del Nord,North Macedonia,Republik Nordmazedonien,République de Macédoine du Nord,Repubblica di Macedonia del Nord,1,7,J,
+8256,,XK,,Kosovo,Kosovo,Kosovo,Kosovo,Republik Kosovo,République du Kosovo,Repubblica del Kosovo,1,7,J,
+8257,,,,Provinz Wojwodina,Province de Voïvodine,Provincia di Vojvodina,Province of Vojvodina,,,,1,7,N,8248
+8260,233,EE,EST,Estland,Estonie,Estonia,Estonia,Republik Estland,République d'Estonie,Repubblica di Estonia,1,2,J,
+8261,428,LV,LVA,Lettland,Lettonie,Lettonia,Latvia,Republik Lettland,République de Lettonie,Repubblica di Lettonia,1,2,J,
+8262,440,LT,LTU,Litauen,Lituanie,Lituania,Lithuania,Republik Litauen,République de Lituanie,Repubblica di Lituania,1,2,J,
+8263,498,MD,MDA,Moldau,Moldova,Moldova,Moldova,Republik Moldau,République de Moldova,Repubblica di Moldova,1,2,J,
+8264,643,RU,RUS,Russland,Russie,Russia,Russia,Russische Föderation,Fédération de Russie,Federazione russa,1,2,J,
+8265,804,UA,UKR,Ukraine,Ukraine,Ucraina,Ukraine,Ukraine,Ukraine,Ucraina,1,2,J,
+8266,112,BY,BLR,Belarus,Bélarus,Belarus,Belarus,Republik Belarus,République du Bélarus,Repubblica di Belarus,1,2,J,
+8270,,,,Alderney,Alderney,Alderney,Alderney,,,,1,4,N,8215
+8271,832,JE,JEY,Jersey,Jersey,Jersey,Jersey,,,,1,4,N,8215
+8272,831,GG,GGY,Guernsey,Guernesey,Guernsey,Guernsey,,,,1,4,N,8215
+8273,744,SJ,SJM,Svalbard und Jan Mayen,Svalbard et Île Jan Mayen,Svalbard e Jan Mayen,Svalbard and Jan Mayen,,,,1,1,N,8228
+8274,248,AX,ALA,Alandinseln,Îles d'Aland,Isole di Aland,Aland Islands,,,,1,1,N,8211
+8275,680,,,Sark,Sercq,Sark,Sark,,,,1,4,N,8215
+8280,,,,Triest,Trieste,Trieste,Trieste,,,,1,7,J,
+8301,226,GQ,GNQ,Äquatorialguinea,Guinée équatoriale,Guinea equatoriale,Equatorial Guinea,Republik Äquatorialguinea,République de Guinée équatoriale,Repubblica di Guinea equatoriale,2,4,J,
+8302,231,ET,ETH,Äthiopien,Éthiopie,Etiopia,Ethiopia,Demokratische Bundesrepublik Äthiopien,République fédérale démocratique d'Éthiopie,Repubblica federale democratica di Etiopia,2,2,J,
+8303,262,DJ,DJI,Dschibuti,Djibouti,Gibuti,Djibouti,Republik Dschibuti,République de Djibouti,Repubblica di Gibuti,2,2,J,
+8304,12,DZ,DZA,Algerien,Algérie,Algeria,Algeria,Demokratische Volksrepublik Algerien,République algérienne démocratique et populaire,Repubblica algerina democratica e popolare,2,1,J,
+8305,24,AO,AGO,Angola,Angola,Angola,Angola,Republik Angola,République d'Angola,Repubblica d'Angola,2,5,J,
+8306,,,,Biafra,Biafra,Biafra,Biafra,,,,2,4,J,
+8307,72,BW,BWA,Botsuana,Botswana,Botswana,Botswana,Republik Botsuana,République du Botswana,Repubblica del Botswana,2,6,J,
+8308,108,BI,BDI,Burundi,Burundi,Burundi,Burundi,Republik Burundi,République du Burundi,Repubblica di Burundi,2,3,J,
+8309,204,BJ,BEN,Benin,Bénin,Benin,Benin,Republik Benin,République du Bénin,Repubblica del Benin,2,4,J,
+8310,384,CI,CIV,Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,Republik Côte d'Ivoire,République de Côte d'Ivoire,Repubblica della Côte d'Ivoire,2,4,J,
+8311,266,GA,GAB,Gabun,Gabon,Gabon,Gabon,Gabunische Republik,République gabonaise,Repubblica gabonese,2,4,J,
+8312,270,GM,GMB,Gambia,Gambie,Gambia,Gambia,Republik Gambia,République de Gambie,Repubblica della Gambia,2,4,J,
+8313,288,GH,GHA,Ghana,Ghana,Ghana,Ghana,Republik Ghana,République du Ghana,Repubblica del Ghana,2,4,J,
+8314,624,GW,GNB,Guinea-Bissau,Guinée-Bissau,Guinea-Bissau,Guinea-Bissau,Republik Guinea-Bissau,République de Guinée-Bissau,Repubblica di Guinea-Bissau,2,4,J,
+8315,324,GN,GIN,Guinea,Guinée,Guinea,Guinea,Republik Guinea,République de Guinée,Repubblica di Guinea,2,4,J,
+8317,120,CM,CMR,Kamerun,Cameroun,Camerun,Cameroon,Republik Kamerun,République du Cameroun,Repubblica del Camerun,2,4,J,
+8318,,,,Kanarische Inseln,Îles Canaries,Isole Canarie,Canary Islands,,,,2,1,N,8236
+8319,132,CV,CPV,Cabo Verde,Cabo Verde,Cabo Verde,Cabo Verde,Republik Cabo Verde,République du Cabo Verde,Repubblica del Cabo Verde,2,4,J,
+8320,404,KE,KEN,Kenia,Kenya,Kenia,Kenya,Republik Kenia,République du Kenya,Repubblica del Kenia,2,2,J,
+8321,174,KM,COM,Komoren,Comores,Comore,Comoros,Union der Komoren,Union des Comores,Unione delle Comore,2,7,J,
+8322,178,CG,COG,Kongo (Brazzaville),Congo (Brazzaville),Congo (Brazzaville),Congo (Brazzaville),Republik Kongo,République du Congo,Repubblica del Congo,2,4,J,
+8323,180,CD,COD,Kongo (Kinshasa),Congo (Kinshasa),Congo (Kinshasa),Congo (Kinshasa),Demokratische Republik Kongo,République démocratique du Congo,Repubblica democratica del Congo,2,3,J,
+8324,426,LS,LSO,Lesotho,Lesotho,Lesotho,Lesotho,Königreich Lesotho,Royaume du Lesotho,Regno di Lesotho,2,6,J,
+8325,430,LR,LBR,Liberia,Libéria,Liberia,Liberia,Republik Liberia,République du Libéria,Repubblica di Liberia,2,4,J,
+8326,434,LY,LBY,Libyen,Libye,Libia,Libya,Staat Libyen,Etat de Libye,Stato della Libia,2,1,J,
+8327,450,MG,MDG,Madagaskar,Madagascar,Madagascar,Madagascar,Republik Madagaskar,République de Madagascar,Repubblica del Madagascar,2,7,J,
+8328,,,,Madeira,Madère,Madera,Madeira,Autonome Region Madeira,Région autonome de Madère,Regione autonoma di Madera,2,1,N,8231
+8329,454,MW,MWI,Malawi,Malawi,Malawi,Malawi,Republik Malawi,République du Malawi,Repubblica del Malawi,2,7,J,
+8330,466,ML,MLI,Mali,Mali,Mali,Mali,Republik Mali,République du Mali,Repubblica del Mali,2,4,J,
+8331,504,MA,MAR,Marokko,Maroc,Marocco,Morocco,Königreich Marokko,Royaume du Maroc,Regno del Marocco,2,1,J,
+8332,478,MR,MRT,Mauretanien,Mauritanie,Mauritania,Mauritania,Islamische Republik Mauretanien,République islamique de Mauritanie,Repubblica islamica di Mauritania,2,1,J,
+8333,480,MU,MUS,Mauritius,Maurice,Maurizio,Mauritius,Republik Mauritius,République de Maurice,Repubblica di Maurizio,2,7,J,
+8334,508,MZ,MOZ,Mosambik,Mozambique,Mozambico,Mozambique,Republik Mosambik,République du Mozambique,Repubblica del Mozambico,2,7,J,
+8335,562,NE,NER,Niger,Niger,Niger,Niger,Republik Niger,République du Niger,Repubblica del Niger,2,4,J,
+8336,566,NG,NGA,Nigeria,Nigéria,Nigeria,Nigeria,Bundesrepublik Nigeria,République fédérale du Nigéria,Repubblica federale della Nigeria,2,4,J,
+8337,854,BF,BFA,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,2,4,J,
+8339,638,RE,REU,Reunion,Réunion,Riunione,Réunion,,,,2,7,N,8212
+8340,716,ZW,ZWE,Simbabwe,Zimbabwe,Zimbabwe,Zimbabwe,Republik Simbabwe,République du Zimbabwe,Repubblica dello Zimbabwe,2,6,J,
+8341,646,RW,RWA,Ruanda,Rwanda,Ruanda,Rwanda,Republik Ruanda,République du Rwanda,Repubblica del Ruanda,2,3,J,
+8343,894,ZM,ZMB,Sambia,Zambie,Zambia,Zambia,Republik Sambia,République de Zambie,Repubblica dello Zambia,2,6,J,
+8344,678,ST,STP,São Tomé und Príncipe,Sao Tomé-et-Principe,São Tomé e Príncipe,São Tomé and Príncipe,Demokratische Republik São Tomé und Príncipe,République démocratique de Sao Tomé-et-Principe,Repubblica democratica di São Tomé e Príncipe,2,4,J,
+8345,686,SN,SEN,Senegal,Sénégal,Senegal,Senegal,Republik Senegal,République du Sénégal,Repubblica del Senegal,2,4,J,
+8346,690,SC,SYC,Seychellen,Seychelles,Seicelle,Seychelles,Republik Seychellen,République des Seychelles,Repubblica delle Isole Seychelles,2,2,J,
+8347,694,SL,SLE,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Republik Sierra Leone,République de Sierra Leone,Repubblica di Sierra Leone,2,4,J,
+8348,706,SO,SOM,Somalia,Somalie,Somalia,Somalia,Bundesrepublik Somalia,République fédérale de Somalie,Repubblica federale della Somalia,2,2,J,
+8349,710,ZA,ZAF,Südafrika,Afrique du Sud,Sudafrica,South Africa,Republik Südafrika,République d'Afrique du Sud,Repubblica del Sudafrica,2,6,J,
+8350,729,SD,SDN,Sudan,Soudan,Sudan,Sudan,Republik Sudan,République du Soudan,Repubblica del Sudan,2,1,J,
+8351,516,NA,NAM,Namibia,Namibie,Namibia,Namibia,Republik Namibia,République de Namibie,Repubblica di Namibia,2,5,J,
+8352,748,SZ,SWZ,Eswatini,Eswatini,Eswatini,Eswatini,Königreich Eswatini,Royaume d'Eswatini,Regno di Eswatini,2,6,J,
+8353,834,TZ,TZA,Tansania,Tanzanie,Tanzania,Tanzania,Vereinigte Republik Tansania,République-Unie de Tanzanie,Repubblica unita della Tanzania,2,2,J,
+8354,768,TG,TGO,Togo,Togo,Togo,Togo,Republik Togo,République togolaise,Repubblica del Togo,2,4,J,
+8356,148,TD,TCD,Tschad,Tchad,Ciad,Chad,Republik Tschad,République du Tchad,Repubblica del Ciad,2,3,J,
+8357,788,TN,TUN,Tunesien,Tunisie,Tunisia,Tunisia,Tunesische Republik,République tunisienne,Repubblica tunisina,2,1,J,
+8358,800,UG,UGA,Uganda,Ouganda,Uganda,Uganda,Republik Uganda,République de l'Ouganda,Repubblica dell'Uganda,2,3,J,
+8359,818,EG,EGY,Ägypten,Égypte,Egitto,Egypt,Arabische Republik Ägypten,République arabe d'Égypte,Repubblica araba d'Egitto,2,1,J,
+8360,140,CF,CAF,Zentralafrikanische Republik,République centrafricaine,Repubblica centrafricana,Central African Republic,Zentralafrikanische Republik,République centrafricaine,Repubblica centrafricana,2,3,J,
+8361,175,YT,MYT,Mayotte,Mayotte,Mayotte,Mayotte,,,,2,7,N,8212
+8362,232,ER,ERI,Eritrea,Érythrée,Eritrea,Eritrea,Staat Eritrea,État d'Érythrée,Stato d'Eritrea,2,2,J,
+8363,728,SS,SSD,Südsudan,Soudan du Sud,Sudan del Sud,South Sudan,Republik Südsudan,République du Soudan du Sud,Repubblica del Sudan del Sud,2,2,J,
+8371,,IO,IOT,Britische Territorien im Indischen Ozean,Territoires britanniques dans l'océan indien,Territori britannici nell'oceano indiano,British Territories in the Indian Ocean,,,,2,7,N,8215
+8372,732,EH,ESH,Westsahara,Sahara Occidental,Sahara Occidentale,Western Sahara,,,,2,1,J,
+8373,654,SH,SHN,St. Helena,Sainte-Hélène,Sant'Elena,Saint Helena,,,,2,5,N,8215
+8374,,SH,SHN,Ascension,Ascension,Ascensione,Ascension,,,,2,5,N,8215
+8375,,SH,SHN,Tristan da Cunha,Tristan da Cunha,Tristan da Cunha,Tristan da Cunha,,,,2,5,N,8215
+8381,,,,Spanisch-Nordafrika,Afrique du Nord Espagnole,Africa settentrionale Spagnola,Spanish North Africa,,,,2,1,N,8236
+8382,,,,Tanganjika,Tanganyika,Tanganika,Tanganyika,,,,2,2,J,
+8383,,,,Sansibar,Zanzibar,Zanzibar,Zanzibar,,,,2,2,J,
+8384,,,,Azawad,Azawad,Azawad,Azawad,,,,2,4,N,8330
+8401,32,AR,ARG,Argentinien,Argentine,Argentina,Argentina,Argentinische Republik,République argentine,Repubblica argentina,3,6,J,
+8402,44,BS,BHS,Bahamas,Bahamas,Bahamas,Bahamas,Commonwealth der Bahamas,Commonwealth des Bahamas,Commonwealth delle Bahamas,3,2,J,
+8403,52,BB,BRB,Barbados,Barbade,Barbados,Barbados,Barbados,Barbade,Barbados,3,2,J,
+8404,60,BM,BMU,Bermuda,Bermudes,Bermuda,Bermuda,,,,3,1,N,8215
+8405,68,BO,BOL,Bolivien,Bolivie,Bolivia,Bolivia,Plurinationaler Staat Bolivien,Etat Plurinational de Bolivie,Stato Plurinazionale di Bolivia,3,5,J,
+8406,76,BR,BRA,Brasilien,Brésil,Brasile,Brazil,Föderative Republik Brasilien,République fédérative du Brésil,Repubblica federativa del Brasile,3,5,J,
+8407,152,CL,CHL,Chile,Chili,Cile,Chile,Republik Chile,République du Chili,Repubblica del Cile,3,6,J,
+8408,188,CR,CRI,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Republik Costa Rica,République du Costa Rica,Repubblica di Costa Rica,3,3,J,
+8409,214,DO,DOM,Dominikanische Republik,République dominicaine,Repubblica dominicana,Dominican Republic,Dominikanische Republik,République dominicaine,Repubblica dominicana,3,2,J,
+8410,218,EC,ECU,Ecuador,Équateur,Ecuador,Ecuador,Republik Ecuador,République de l'Équateur,Repubblica dell'Ecuador,3,5,J,
+8411,222,SV,SLV,El Salvador,El Salvador,El Salvador,El Salvador,Republik El Salvador,République d'El Salvador,Repubblica di El Salvador,3,3,J,
+8412,238,FK,FLK,Falklandinseln,Îles Falkland,Isole Falkland,Falkland Islands,,,,3,6,N,8215
+8413,304,GL,GRL,Grönland,Groenland,Groenlandia,Greenland,,,,3,1,N,8206
+8414,312,GP,GLP,Guadeloupe,Guadeloupe,Guadalupa,Guadeloupe,,,,3,2,N,8212
+8415,320,GT,GTM,Guatemala,Guatemala,Guatemala,Guatemala,Republik Guatemala,République du Guatemala,Repubblica del Guatemala,3,3,J,
+8416,254,GF,GUF,Französisch-Guayana,Guyane Française,Guiana Francese,French Guyana,,,,3,4,N,8212
+8417,328,GY,GUY,Guyana,Guyana,Guyana,Guyana,Kooperative Republik Guyana,République coopérative du Guyana,Repubblica cooperativistica della Guyana,3,4,J,
+8418,332,HT,HTI,Haiti,Haïti,Haiti,Haiti,Republik Haiti,République d'Haïti,Repubblica di Haiti,3,2,J,
+8419,84,BZ,BLZ,Belize,Belize,Belize,Belize,Belize,Belize,Belize,3,3,J,
+8420,340,HN,HND,Honduras,Honduras,Honduras,Honduras,Republik Honduras,République du Honduras,Repubblica di Honduras,3,3,J,
+8421,388,JM,JAM,Jamaika,Jamaïque,Giamaica,Jamaica,Jamaika,Jamaïque,Giamaica,3,2,J,
+8423,124,CA,CAN,Kanada,Canada,Canada,Canada,Kanada,Canada,Canada,3,1,J,
+8424,170,CO,COL,Kolumbien,Colombie,Colombia,Colombia,Republik Kolumbien,République de Colombie,Repubblica di Colombia,3,4,J,
+8425,192,CU,CUB,Kuba,Cuba,Cuba,Cuba,Republik Kuba,République de Cuba,Repubblica di Cuba,3,2,J,
+8426,474,MQ,MTQ,Martinique,Martinique,Martinica,Martinique,,,,3,2,N,8212
+8427,484,MX,MEX,Mexiko,Mexique,Messico,Mexico,Vereinigte Mexikanische Staaten,États-Unis mexicains,Stati Uniti messicani,3,3,J,
+8429,558,NI,NIC,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Republik Nicaragua,République du Nicaragua,Repubblica di Nicaragua,3,3,J,
+8430,591,PA,PAN,Panama,Panama,Panama,Panama,Republik Panama,République du Panama,Repubblica del Panama,3,3,J,
+8431,600,PY,PRY,Paraguay,Paraguay,Paraguay,Paraguay,Republik Paraguay,République du Paraguay,Repubblica del Paraguay,3,5,J,
+8432,604,PE,PER,Peru,Pérou,Perù,Peru,Republik Peru,République du Pérou,Repubblica del Perù,3,5,J,
+8433,630,PR,PRI,Puerto Rico,Porto Rico,Portorico,Puerto Rico,,,,3,2,N,8439
+8434,666,PM,SPM,St. Pierre und Miquelon,Saint-Pierre-et-Miquelon,Saint-Pierre e Miquelon,Saint Pierre and Miquelon,,,,3,1,N,8212
+8435,740,SR,SUR,Suriname,Suriname,Suriname,Suriname,Republik Suriname,République du Suriname,Repubblica di Suriname,3,4,J,
+8436,780,TT,TTO,Trinidad und Tobago,Trinité-et-Tobago,Trinidad e Tobago,Trinidad and Tobago,Republik Trinidad und Tobago,République de Trinité-et-Tobago,Repubblica di Trinidad e Tobago,3,2,J,
+8437,858,UY,URY,Uruguay,Uruguay,Uruguay,Uruguay,Republik Oestlich des Uruguay,République orientale de l'Uruguay,Repubblica orientale dell'Uruguay,3,6,J,
+8438,862,VE,VEN,Venezuela,Venezuela,Venezuela,Venezuela,Bolivarische Republik Venezuela,République bolivarienne du Venezuela,Repubblica bolivariana del Venezuela,3,4,J,
+8439,840,US,USA,Vereinigte Staaten,États-Unis,Stati Uniti,United States,Vereinigte Staaten von Amerika,États-Unis d'Amérique,Stati Uniti d'America,3,1,J,
+8440,212,DM,DMA,Dominica,Dominique,Dominica,Dominica,Commonwealth Dominica,Commonwealth de la Dominique,Commonwealth di Dominica,3,2,J,
+8441,308,GD,GRD,Grenada,Grenade,Grenada,Grenada,Grenada,Grenade,Grenada,3,2,J,
+8442,28,AG,ATG,Antigua und Barbuda,Antigua-et-Barbuda,Antigua e Barbuda,Antigua and Barbuda,Antigua und Barbuda,Antigua-et-Barbuda,Antigua e Barbuda,3,2,J,
+8443,662,LC,LCA,St. Lucia,Sainte-Lucie,Saint Lucia,Saint Lucia,St. Lucia,Sainte-Lucie,Saint Lucia,3,2,J,
+8444,670,VC,VCT,St. Vincent und die Grenadinen,Saint-Vincent-et-les Grenadines,Saint Vincent e Grenadine,Saint Vincent and the Grenadines,St. Vincent und die Grenadinen,Saint-Vincent-et-les Grenadines,Saint Vincent e Grenadine,3,2,J,
+8445,659,KN,KNA,St. Kitts und Nevis,Saint-Kitts-et-Nevis,Saint Kitts e Nevis,Saint Kitts and Nevis,Föderation St. Kitts und Nevis,Fédération de Saint-Kitts-et-Nevis,Federazione di Saint Kitts e Nevis,3,2,J,
+8446,660,AI,AIA,Anguilla,Anguilla,Anguilla,Anguilla,,,,3,2,N,8215
+8447,,,,Hawaii,Hawaii,Hawaii,Hawaii,,,,3,1,J,
+8448,663,MF,MAF,Saint-Martin (Frankreich),Saint-Martin (France),Saint-Martin (Francia),Saint Martin (France),,,,3,2,N,8212
+8449,652,BL,BLM,Saint-Barthélemy,Saint-Barthélemy,Saint-Barthélemy,Saint Barthélemy,,,,3,2,N,8212
+8472,850,VI,VIR,Jungferninseln (USA),Îles Vierges américaines,Isole Vergini americane,US Virgin Islands,,,,3,2,N,8439
+8473,136,KY,CYM,Kaimaninseln,Îles Cayman,Isole Cayman,Cayman Islands,,,,3,2,N,8215
+8474,796,TC,TCA,Turks- und Caicosinseln,Îles Turques et Caïques,Isole Turks e Caicos,Turks and Caicos Islands,,,,3,2,N,8215
+8475,500,MS,MSR,Montserrat,Montserrat,Monserrat,Montserrat,,,,3,2,N,8215
+8476,92,VG,VGB,Jungferninseln (UK),Îles Vierges britanniques,Isole Vergini britanniche,British Virgin Islands,,,,3,2,N,8215
+8481,,,,Niederländische Antillen,Antilles néerlandaises,Antille olandesi,Netherlands Antilles,,,,3,2,N,8227
+8482,533,AW,ABW,Aruba,Aruba,Aruba,Aruba,,,,3,2,N,8227
+8483,,GS,SGS,Südgeorgien und Südliche Sandwichinseln,Géorgie du Sud et Îles Sandwich du Sud,Isole Georgia del Sud e Sandwich del Sud,South Georgia and the South Sandwich Islands,,,,3,6,N,8215
+8484,531,CW,CUW,Curaçao,Curaçao,Curaçao,Curaçao,,,,3,2,N,8227
+8485,534,SX,SXM,Sint Maarten (Niederlande),Sint Maarten (Pays-Bas),Sint Maarten (Paesi Bassi),Sint Maarten (Netherlands),,,,3,2,N,8227
+8486,535,BQ,BES,"Bonaire, Saint Eustatius und Saba","Bonaire, Saint Eustatius et Saba","Bonaire, Saint Eustatius e Saba","Bonaire, Saint Eustatius and Saba",,,,3,2,N,8227
+8501,4,AF,AFG,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Islamische Republik Afghanistan,République islamique d'Afghanistan,Repubblica islamica dell'Afghanistan,4,6,J,
+8502,48,BH,BHR,Bahrain,Bahreïn,Bahrein,Bahrain,Königreich Bahrain,Royaume de Bahreïn,Regno del Bahrein,4,4,J,
+8503,64,BT,BTN,Bhutan,Bhoutan,Bhutan,Bhutan,Königreich Bhutan,Royaume du Bhoutan,Regno del Bhutan,4,6,J,
+8504,96,BN,BRN,Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam,Brunei,Staat Brunei Darussalam,Etat de Brunéi Darussalam,Stato del Brunei Darussalam,4,7,J,
+8505,104,MM,MMR,Myanmar,Myanmar,Myanmar,Myanmar,Republik der Union Myanmar,République de l'Union de Myanmar,Repubblica dell'Unione di Myanmar,4,7,J,
+8506,144,LK,LKA,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Demokratische Sozialistische Republik Sri Lanka,République socialiste démocratique de Sri Lanka,Repubblica democratica socialista di Sri Lanka,4,6,J,
+8507,,TW,TWN,Taiwan (Chinesisches Taipei),Taïwan (Taipei chinois),Taiwan (Taipei cinese),Taiwan (Chinese Taipei),Taiwan (Chinesisches Taipei),Taïwan (Taipei chinois),Taiwan (Taipei cinese),4,2,J,
+8508,156,CN,CHN,China,Chine,Cina,China,Volksrepublik China,République populaire de Chine,Repubblica popolare Cinese,4,2,J,
+8509,344,HK,HKG,Hongkong,Hong Kong,Hong Kong,Hong Kong,,,,4,2,N,8508
+8510,356,IN,IND,Indien,Inde,India,India,Republik Indien,République de l'Inde,Repubblica dell'India,4,6,J,
+8511,360,ID,IDN,Indonesien,Indonésie,Indonesia,Indonesia,Republik Indonesien,République d'Indonésie,Repubblica di Indonesia,4,7,J,
+8512,368,IQ,IRQ,Irak,Irak,Iraq,Iraq,Republik Irak,République d'Irak,Repubblica dell'Iraq,4,4,J,
+8513,364,IR,IRN,Iran,Iran,Iran,Iran,Islamische Republik Iran,République islamique d'Iran,Repubblica islamica dell'Iran,4,4,J,
+8514,376,IL,ISR,Israel,Israël,Israele,Israel,Staat Israel,Etat d'Israël,Stato d'Israele,4,4,J,
+8515,392,JP,JPN,Japan,Japon,Giappone,Japan,Japan,Japon,Giappone,4,2,J,
+8516,887,YE,YEM,Jemen,Yémen,Yemen,Yemen,Republik Jemen,République du Yémen,Repubblica dello Yemen,4,4,J,
+8517,400,JO,JOR,Jordanien,Jordanie,Giordania,Jordan,Haschemitisches Königreich Jordanien,Royaume hachémite de Jordanie,Regno hascemita di Giordania,4,4,J,
+8518,116,KH,KHM,Kambodscha,Cambodge,Cambogia,Cambodia,Königreich Kambodscha,Royaume du Cambodge,Regno di Cambogia,4,7,J,
+8519,634,QA,QAT,Katar,Qatar,Qatar,Qatar,Staat Katar,État du Qatar,Stato del Qatar,4,4,J,
+8521,414,KW,KWT,Kuwait,Koweït,Kuwait,Kuwait,Staat Kuwait,Etat du Koweït,Stato del Kuwait,4,4,J,
+8522,418,LA,LAO,Laos,Laos,Laos,Laos,Demokratische Volksrepublik Laos,République démocratique populaire lao,Repubblica democratica popolare lao,4,7,J,
+8523,422,LB,LBN,Libanon,Liban,Libano,Lebanon,Libanesische Republik,République libanaise,Repubblica libanese,4,4,J,
+8524,446,MO,MAC,Macao,Macao,Macao,Macao,,,,4,2,N,8508
+8525,458,MY,MYS,Malaysia,Malaisie,Malaysia,Malaysia,Malaysia,Malaisie,Malaysia,4,7,J,
+8526,462,MV,MDV,Malediven,Maldives,Maldive,Maldives,Republik Malediven,République des Maldives,Repubblica delle Maldive,4,6,J,
+8527,512,OM,OMN,Oman,Oman,Oman,Oman,Sultanat Oman,Sultanat d'Oman,Sultanato dell'Oman,4,4,J,
+8528,496,MN,MNG,Mongolei,Mongolie,Mongolia,Mongolia,Mongolei,Mongolie,Mongolia,4,1,J,
+8529,524,NP,NPL,Nepal,Népal,Nepal,Nepal,Nepal,Népal,Nepal,4,6,J,
+8530,408,KP,PRK,Korea (Nord-),Corée (Nord),Corea (Nord),North Korea,Demokratische Volksrepublik Korea,République populaire démocratique de Corée,Repubblica popolare democratica di Corea,4,2,J,
+8531,,,,Nordvietnam,Viet-Nam du Nord,Vietnam del Nord,North Vietnam,,,,4,7,J,
+8532,784,AE,ARE,Vereinigte Arabische Emirate,Émirats arabes unis,Emirati arabi uniti,United Arab Emirates,Vereinigte Arabische Emirate,Émirats arabes unis,Emirati arabi uniti,4,4,J,
+8533,586,PK,PAK,Pakistan,Pakistan,Pakistan,Pakistan,Islamische Republik Pakistan,République islamique du Pakistan,Repubblica islamica del Pakistan,4,6,J,
+8534,608,PH,PHL,Philippinen,Philippines,Filippine,Philippines,Republik der Philippinen,République des Philippines,Repubblica delle Filippine,4,7,J,
+8535,682,SA,SAU,Saudi-Arabien,Arabie saoudite,Arabia Saudita,Saudi Arabia,Königreich Saudi-Arabien,Royaume d'Arabie saoudite,Regno dell'Arabia Saudita,4,4,J,
+8536,,,,Sikkim,Sikkim,Sikkim,Sikkim,,,,4,6,J,
+8537,702,SG,SGP,Singapur,Singapour,Singapore,Singapore,Republik Singapur,République de Singapour,Repubblica di Singapore,4,7,J,
+8538,,,,Südjemen,Yémen du Sud,Yemen del Sud,South Yemen,,,,4,4,J,
+8539,410,KR,KOR,Korea (Süd-),Corée (Sud),Corea (Sud),South Korea,Republik Korea,République de Corée,Repubblica di Corea,4,2,J,
+8540,,,,Südvietnam,Viêt-Nam du Sud,Vietnam del Sud,South Vietnam,,,,4,7,J,
+8541,760,SY,SYR,Syrien,Syrie,Siria,Syria,Arabische Republik Syrien,République arabe syrienne,Repubblica araba siriana,4,4,J,
+8542,764,TH,THA,Thailand,Thaïlande,Thailandia,Thailand,Königreich Thailand,Royaume de Thaïlande,Regno di Thailandia,4,7,J,
+8543,,,,Tibet,Tibet,Tibet,Tibet,,,,4,2,N,8508
+8544,,,,Timor (Portugal),Timor (Portugal),Timor (Portogallo),Timor (Portugal),,,,4,7,N,8231
+8545,704,VN,VNM,Vietnam,Vietnam,Vietnam,Vietnam,Sozialistische Republik Vietnam,République socialiste du Vietnam,Repubblica socialista del Vietnam,4,7,J,
+8546,50,BD,BGD,Bangladesch,Bangladesh,Bangladesh,Bangladesh,Volksrepublik Bangladesch,République populaire du Bangladesh,Repubblica popolare del Bangladesh,4,6,J,
+8547,626,TL,TLS,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,Demokratische Republik Timor-Leste,République démocratique du Timor-Leste,Repubblica democratica del Timor-Leste,4,7,J,
+8548,,,,Französisch-Indochina,Indochine française,Indocina francese,French Indochina,,,,4,7,N,8212
+8549,,,,Nordjemen,Yémen du nord,Yemen del Nord,North Yemen,,,,4,4,J,
+8550,275,PS,PSE,Palästina,Palestine,Palestina,Palestine,,,,4,4,J,
+8551,,,,Vereinigte Arabische Republik,République arabe unie,Repubblica Araba Unita,United Arab Republic,,,,2,1,J,
+8552,,,,Sarawak,Sarawak,Sarawak,Sarawak,,,,4,7,N,8215
+8560,51,AM,ARM,Armenien,Arménie,Armenia,Armenia,Republik Armenien,République d'Arménie,Repubblica d'Armenia,4,5,J,
+8561,31,AZ,AZE,Aserbaidschan,Azerbaïdjan,Azerbaigian,Azerbaijan,Republik Aserbaidschan,République d'Azerbaïdjan,Repubblica dell'Azerbaigian,4,5,J,
+8562,268,GE,GEO,Georgien,Géorgie,Georgia,Georgia,Georgien,Géorgie,Georgia,4,5,J,
+8563,398,KZ,KAZ,Kasachstan,Kazakhstan,Kazakstan,Kazakhstan,Republik Kasachstan,République du Kazakhstan,Repubblica del Kazakstan,4,3,J,
+8564,417,KG,KGZ,Kirgisistan,Kirghizistan,Kirghizistan,Kyrgyzstan,Kirgisische Republik,République kirghize,Repubblica del Kirghizistan,4,3,J,
+8565,762,TJ,TJK,Tadschikistan,Tadjikistan,Tagikistan,Tajikistan,Republik Tadschikistan,République du Tadjikistan,Repubblica del Tagikistan,4,3,J,
+8566,795,TM,TKM,Turkmenistan,Turkménistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkménistan,Turkmenistan,4,3,J,
+8567,860,UZ,UZB,Usbekistan,Ouzbékistan,Uzbekistan,Uzbekistan,Republik Usbekistan,République d'Ouzbékistan,Repubblica dell'Uzbekistan,4,3,J,
+8571,,,,Abchasien,Abkhazie,Abcasia,Abkhazia,,,,4,5,N,8562
+8572,,,,Karatschai-Tscherkessien,Karatchaïévo-Tcherkessie,Caracievo-Circassia,Karachay-Cherkessia,,,,1,2,N,8264
+8573,,,,Kabardino-Balkarien,Kabardino-Balkarie,Cabardino-Balcaria,Kabardino-Balkaria,,,,1,2,N,8264
+8574,,,,Nordossetien-Alanien,Ossétie-du-Nord-Alanie,Ossezia Settentrionale-Alania,North Ossetia-Alania,,,,1,2,N,8264
+8575,,,,Südossetien,Ossétie du Sud,Ossezia del Sud,South Ossetia,,,,4,5,N,8562
+8576,,,,Inguschetien,Ingouchie,Inguscezia,Ingushetia,,,,1,2,N,8264
+8577,,,,Tschetschenien,Tchétchénie,Cecenia,Chechnya,,,,1,2,N,8264
+8578,,,,Dagestan,Daghestan,Daghestan,Dagestan,,,,1,2,N,8264
+8579,,,,Adscharien,Adjarie,Agiaria,Adjara,,,,4,5,N,8562
+8601,36,AU,AUS,Australien,Australie,Australia,Australia,Australien,Australie,Australia,5,6,J,
+8602,242,FJ,FJI,Fidschi,Fidji,Figi,Fiji,Republik Fidschi,République des Fidji,Repubblica delle Figi,5,3,J,
+8604,520,NR,NRU,Nauru,Nauru,Nauru,Nauru,Republik Nauru,République de Nauru,Repubblica di Nauru,5,3,J,
+8605,548,VU,VUT,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Republik Vanuatu,République de Vanuatu,Repubblica di Vanuatu,5,3,J,
+8606,540,NC,NCL,Neukaledonien,Nouvelle-Calédonie,Nuova Caledonia,New Caledonia,,,,5,6,N,8212
+8607,554,NZ,NZL,Neuseeland,Nouvelle-Zélande,Nuova Zelanda,New Zealand,Neuseeland,Nouvelle-Zélande,Nuova Zelanda,5,6,J,
+8608,598,PG,PNG,Papua-Neuguinea,Papouasie-Nouvelle-Guinée,Papua Nuova Guinea,Papua New Guinea,der Unabhängige Staat Papua-Neuguinea,l'État indépendant de Papouasie-Nouvelle-Guinée,Stato indipendente di Papua Nuova Guinea,5,3,J,
+8610,776,TO,TON,Tonga,Tonga,Tonga,Tonga,Königreich Tonga,Royaume des Tonga,Regno di Tonga,5,3,J,
+8611,876,WF,WLF,Wallis und Futuna,Wallis-et-Futuna,Wallis e Futuna,Wallis and Futuna,,,,5,3,N,8212
+8612,882,WS,WSM,Samoa,Samoa,Samoa,Samoa,Unabhängiger Staat Samoa,Etat indépendant du Samoa,Stato indipendente di Samoa,5,3,J,
+8614,90,SB,SLB,Salomoninseln,Îles Salomon,Isole Salomone,Solomon Islands,Salomoninseln,Îles Salomon,Isole Salomone,5,3,J,
+8615,798,TV,TUV,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,5,3,J,
+8616,296,KI,KIR,Kiribati,Kiribati,Kiribati,Kiribati,Republik Kiribati,République de Kiribati,Repubblica di Kiribati,5,1,J,
+8617,584,MH,MHL,Marshallinseln,Îles Marshall,Isole Marshall,Marshall Islands,Republik Marshallinseln,République des Îles Marshall,Repubblica delle Isole Marshall,5,1,J,
+8618,583,FM,FSM,Mikronesien,Micronésie,Micronesia,Micronesia,Föderierte Staaten von Mikronesien,États fédérés de Micronésie,Stati federati di Micronesia,5,1,J,
+8619,585,PW,PLW,Palau,Palaos,Palau,Palau,Republik Palau,République des Palaos,Repubblica di Palau,5,1,J,
+8621,16,AS,ASM,Amerikanisch-Samoa,Samoa américaines,Samoa americane,American Samoa,,,,5,3,N,8439
+8630,580,MP,MNP,Nördliche Marianen,Mariannes du Nord,Marianne del Nord,Northern Marianas,,,,5,1,N,8439
+8632,316,GU,GUM,Guam,Guam,Guam,Guam,,,,5,1,N,8439
+8633,,UM,UMI,Johnstoninsel,Île Johnston,Isola Johnston,Johnston Island,,,,5,1,N,8439
+8635,,UM,UMI,Midwayinseln,Îles Midway,Isole Midway,Midway Island,,,,5,1,N,8439
+8636,,UM,UMI,Wakeinsel,Île Wake,Isola Wake,Wake Island,,,,5,1,N,8439
+8637,,,,Kleinere amerikanische Überseeinseln,Îles mineures éloignées des États-Unis,Isole minori lontane dagli Stati Uniti,United States Minor Outlying Islands,,,,5,1,N,8439
+8652,,CC,CCK,Kokosinseln,Îles Cocos (Keeling),Isole Cocos,Cocos (Keeling) Islands,,,,5,4,N,8601
+8653,,HM,HMD,Heard und McDonaldinseln,Îles-Heard-et-McDonald,Isole Heard e McDonald,Heard Island and McDonald Islands,,,,5,4,N,8601
+8654,574,NF,NFK,Norfolkinsel,Île Norfolk,Isola Norfolk,Norfolk Island,,,,5,6,N,8601
+8655,,CX,CXR,Weihnachtsinsel,Île Christmas (Australie),Isola Christmas,Christmas Island,,,,5,4,N,8601
+8671,258,PF,PYF,Französisch-Polynesien,Polynésie française,Polinesia francese,French Polynesia,,,,5,3,N,8212
+8682,184,CK,COK,Cookinseln,Îles Cook,Isole Cook,Cook Islands,Cookinseln,Îles Cook,Isole Cook,5,6,J,
+8683,570,NU,NIU,Niue,Nioué,Niue,Niue,,,,5,3,N,8607
+8684,772,TK,TKL,Tokelau,Tokélau,Tokelau,Tokelau,,,,5,3,N,8607
+8685,612,PN,PCN,Pitcairninseln,Îles Pitcairn,Isole Pitcairn,Pitcairn Islands,,,,5,6,N,8215
+8701,,AQ,ATA,Antarktis,Antarctique,Antartide,Antarctica,,,,6,1,N,
+8702,,BV,BVT,Bouvetinsel,Île Bouvet,Isola Bouvet,Bouvet Island,,,,6,1,N,8228
+8703,,TF,ATF,Französische Süd- und Antarktisgebiete,Terres australes et antarctiques françaises,Territori delle terre australi e antartiche francesi,French Southern and Antarctic Lands,,,,6,1,N,8212
